@@ -2,7 +2,7 @@
 
 A RAG-based codebase Q&A agent that lets you point at any GitHub repository and ask natural-language questions about it — grounded in the actual code, with citations, hybrid retrieval, agentic tool-use, and a rigorous RAGAS-based evaluation.
 
-**Live demo:** `http://13.61.147.16:8000` *(personal EC2 instance — may not always be running; see "Run it yourself" below if it's offline)*
+**Live demo:** [http://13.61.147.16:8000](http://13.61.147.16:8000) *(personal EC2 instance — may not always be running; see "Run it yourself" below if it's offline)*
 
 ---
 
