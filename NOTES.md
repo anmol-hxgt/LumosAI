@@ -5,7 +5,7 @@
 
   2."Currently rebuilding the full BM25 index in memory on every script run (_load_bm25_index) — fine for 358 chunks, but for a much larger repo this would need to be cached/persisted instead of rebuilt each time." 
 
-  3.NOTES.md addition:
+  3.
 - Agent sometimes calls the same tool twice with an identical query in one 
   turn (seen with web_search). Doesn't break anything since MAX_TOOL_ITERATIONS 
   caps it, but wastes an API call. Possible fix later: dedupe identical tool 
