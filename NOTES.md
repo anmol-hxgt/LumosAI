@@ -37,3 +37,4 @@
   context-based answering when this happens, but this is worth hardening — 
   e.g. catching the specific ImportError and telling the agent the execution 
   environment doesn't have that library available.
+
