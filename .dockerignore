@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+test_repo/
+test_repos/
+eval/results/
+.git/
+.gitignore
+.env
+*.md
+Dockerfile
+docker-compose.yml
